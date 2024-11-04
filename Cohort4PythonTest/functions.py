@@ -45,31 +45,27 @@ student_information()
 
 #her_name("glorious")
 
-def my_age():
-     age = 21
-     return age
+#def my_age():
+ #    age = 21
+ #    return age
 
-print(f"my name is {my_name_approach2}")
+#print(f"my name is {my_name_approach2}")
 
-    # Create a function that calculate the area of a triangle.The base and height must be function parameters.
+    # Create a function that calculate the area of a triangle.
+    # The base and height must be function parameters.
 
-def area_of_triangle(base, height):
-     area =int( 1/2*base*height ) 
-     print(f"The area of a triangle of base: {base} and height: {height} is {area}")
+#def area_of_triangle(base, height):
+#     area =int( 1/2*base*height ) 
+#     print(f"The area of a triangle of base: {base} and height: {height} is {area}")
 
-area_of_triangle(3 , 4 )
+#area_of_triangle(3 , 4 )
 
 # Approach2
 
-def area_of_triangle():
-     base = int(input("Enter the base of a triangle: "))
-     height = int(input("Enter the height of a triangle: "))
-     area =int( 1/2 * base * height) 
-     print(f"The area of a triangle with base: {base} and height: {height}is {area}")
+#def area_of_triangle():
+ #    base = int(input("Enter the base of a triangle: "))
+  #   height = int(input("Enter the height of a triangle: "))
+   #  area =int( 1/2 * base * height) 
+    # print(f"The area of a triangle with base: {base} and height: {height}is {area}")
      
-area_of_triangle()
-
-
-
-
-
+#area_of_triangle()
